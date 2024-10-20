@@ -1,0 +1,7 @@
+#Build modules
+/backend/traget
+/frontend/node_moudles
+/frontend/.next
+
+#Build files
+*.lock

@@ -1,0 +1,9 @@
+[package]
+name = "rsonjudge"
+version = "0.1.0"
+edition = "2021"
+authors = ["cw.kim <cw.kim@algo-wiz.com>"]
+
+[dependencies]
+actix-web = "4"
+
